@@ -82,7 +82,11 @@ h2 {
 
 p {
     font-size: 18px;
-    text-align: justify;
+    text-align: center;
+}
+
+a {
+    font-size: 18px;
 }
 
 /* Estilos responsivos */
