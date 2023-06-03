@@ -1,0 +1,115 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    padding: 40px;
+    text-align: center;
+    color: #000000;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.projects {
+    padding: 80px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.project {
+    display: inline-block;
+    width: calc(25% - 40px);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos para efecto de parallax */
+header {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.projects {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Estilos adicionales */
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+/* Estilos responsivos */
+@media screen and (max-width: 768px) {
+    header {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .project {
+        width: calc(50% - 40px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .project {
+        width: 100%;
+    }
+}

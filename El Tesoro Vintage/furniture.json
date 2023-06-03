@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Sillón",
+        "category" : "Silla",
+        "price" : 152251,
+        "imgSrc" : "images/armchair.png"
+    },
+    {
+        "name" : "Cama",
+        "category" : "Cama",
+        "price" : 310800,
+        "imgSrc" : "images/bed.png"
+    },
+    {
+        "name" : "Banco",
+        "category" : "Banco",
+        "price" : 45000,
+        "imgSrc" : "images/bench.png"
+    },
+    {
+        "name" : "Litera",
+        "category" : "Cama",
+        "price" : 70350,
+        "imgSrc" : "images/bunk-bed.png"
+    },
+    {
+        "name" : "Gabinete",
+        "category" : "Gabinete",
+        "price" : 148500,
+        "imgSrc" : "images/cabinet.png"
+    },
+    {
+        "name" : "Mesa plegable",
+        "category" : "Mesa",
+        "price" : 590250,
+        "imgSrc" : "images/card-table.png"
+    },
+    {
+        "name" : "Cojín",
+        "category" : "Cojín",
+        "price" : 49500,
+        "imgSrc" : "images/cushion.png"
+    },
+    {
+        "name" : "Escritorio",
+        "category" : "Escritorio",
+        "price" : 225000,
+        "imgSrc" : "images/desk.png"
+    },
+    {
+        "name" : "Cajonera",
+        "category" : "Cajonera",
+        "price" : 441000,
+        "imgSrc" : "images/drawer.png"
+    },
+    {
+        "name" : "Silla de oficina",
+        "category" : "Silla",
+        "price" : 535254,
+        "imgSrc" : "images/office-chair.png"
+    },
+    {
+        "name" : "Silla tijera",
+        "category" : "Silla",
+        "price" : 622950,
+        "imgSrc" : "images/scissors-chair.png"
+    },
+    {
+        "name" : "Sofá cama",
+        "category" : "Cama",
+        "price" : 1996001,
+        "imgSrc" : "images/sleeper-sofa.png"
+    },
+    {
+        "name" : "Cama con cabecera",
+        "category" : "Cama",
+        "price" : 800751,
+        "imgSrc" : "images/sleigh-bed.png"
+    },
+    {
+        "name" : "Sofá cama",
+        "category" : "Cama",
+        "price" : 882921,
+        "imgSrc" : "images/sofa-bed.png"
+    },
+    {
+        "name" : "Sillón blanco",
+        "category" : "Silla",
+        "price" : 1005570,
+        "imgSrc" : "images/white-armchair.png"
+    },
+    {
+        "name" : "Sofá blanco",
+        "category" : "Sofá",
+        "price" : 2118510,
+        "imgSrc" : "images/white-sofa.png"
+    },
+    {
+        "name" : "Sillón de orejas",
+        "category" : "Silla",
+        "price" : 1397565,
+        "imgSrc" : "images/wing-chair.png"
+    },
+    {
+        "name" : "Sillón de madera",
+        "category" : "Silla",
+        "price" : 2612082,
+        "imgSrc" : "images/wooden-armchair.png"
+    },
+    {
+        "name" : "Mesa de comedor de madera",
+        "category" : "Mesa",
+        "price" : 4480700,
+        "imgSrc" : "images/wooden-dining-table.png"
+    },
+    {
+        "name" : "Mesa de madera",
+        "category" : "Mesa",
+        "price" : 4017041,
+        "imgSrc" : "images/wooden-table.png"
+    }
+]
