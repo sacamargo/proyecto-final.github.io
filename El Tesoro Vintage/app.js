@@ -42,7 +42,7 @@ function loadJSON(){
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
                         <button type = "button" class = "add-to-cart-btn">
-                            <i class = "fas fa-shopping-cart"></i>Add To Cart
+                            <i class = "fas fa-shopping-cart"></i>Agrega al carrito
                         </button>
                     </div>
 
